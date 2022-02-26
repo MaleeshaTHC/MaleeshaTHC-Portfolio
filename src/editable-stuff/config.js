@@ -43,7 +43,7 @@ const about = {
   imageSize: 450,
   message:
     "My name is Chathumini Maleesha. I’m an undergraduate in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of UI/UX designing. In my free time I like working on open source projects.",
-  resume: "https://doc-0c-58-docs.googleusercontent.com/docs/securesc/iqeqr2uvomk6t2lumlmvfvj4e7k2e7cg/3njhe21m9j3p5l9s3ubi8p97jbdrd9nb/1645889250000/15312951935355632458/15312951935355632458/1c9-cl2b3BgIF9h21seXZWNERr9aLQoHn?e=download&ax=ACxEAsbgql6RcFvw4nJWLKhmEOZcDwMs3XNTjFwWaJ51OxS_JBCy0Uzn1VblmV6PliY487X5MrCnZg7EDpAK-hyLWxIHWMoDzLu57aStNyNxKAmvCV-cXpQpMPktsXrpr-jC9WTi_TPNiGSefGh4dDMEu0wbqU1pB6cxGilw-sy1f72YfM4MS24JiLuyxpMekA0ez0riSjNvCGqm7aOWKEeYfloKLrFOKZxNe15WpDybYy3g6XCKu4vunuT5un3jUG9jZWn_Lq50QnEGMNxJ4DhBMHXWWedbKB0FmdsNEhQTI5mD5kvNMKPJcpLq7UjJjxmrtgwVcsj6s__fPRWhp6xPY7ckjYkF_mx3heSkK8Z2gJkOLDyRItgh32V8rCKe9zlZWg7D14i4PBi2sStbAAjAGQW2QgU3Hkb6ICgE_44ZuXXKEmWV-pqlwT9LweepSRF32KAuOmH5zEofgHKDiju0nNiIB01oshYdKhiGvEuXVm23TTgMgEFv6hb3TqsZdcpMppiG0pC-LyU6pd_GMrFhJDEBOI_mbkW6IuO6uV6DJdL88aQ1F0KUceWBW2EAcKHgtXxHOf-ZLQY60l08Fwxf41SN6StnFgJ1gxYs3xHxfB4BUqCnSERKWa5RUeF3_3q-FeDj_7RtYKyVS_VHa1xNRiv2dLtI_i-PO2D__-g&authuser=0&nonce=nc5dco55lni9e&user=15312951935355632458&hash=t5j7fj2ap4n0gj06lve46vs69dmrgt4l",
+  resume: "https://drive.google.com/file/d/1c9-cl2b3BgIF9h21seXZWNERr9aLQoHn/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -92,7 +92,7 @@ const skills = {
     { name: "Java", value: 75 },
     { name: "SQL", value: 70 },
     { name: "Data Structures", value: 65 },
-    { name: "JavaScript", value: 60 },
+    { name: "JavaScript", value: 48 },
     { name: "React", value: 55 },
     { name: "HTML/CSS", value: 85 },
     { name: "Adobe Collection", value: 70 },
