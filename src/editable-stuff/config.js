@@ -67,7 +67,7 @@ const memberships = {
     "A leader should be visionary and have more foresight than an employee. The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. Leadership and learning are indispensable to each other. A good objective of leadership is to help those who are doing poorly to do well and to help those who are doing well to do even better.",
   images: [
     { 
-      img: require("../assets/img/leo.jpg"), 
+      img: require("../assets/img/leo.jpeg"), 
       label: "Leo Club of District 306 C2 University of Sri Jayewardenepura", 
       paragraph: "Leo Club of District 306 C2 University of Sri Jayewardenepura sponsored by Lions Club of Colombo Chariot is established in the year 2019 to encourage youths to develop leadership qualities by participating in social activities." 
     },
@@ -78,8 +78,8 @@ const memberships = {
     },
   ],
   imageSize: {
-    width:"500",
-    height:"600"
+    width:"400",
+    height:"400"
   }
 };
 
