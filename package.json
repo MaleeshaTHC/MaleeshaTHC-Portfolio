@@ -1,7 +1,7 @@
 {
   "name": "Chathumini-Maleesha-Portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com/home",
+  "homepage": "http://maleeshathc.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
@@ -28,7 +28,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://github.com/MaleeshaTHC/maleeshathc.github.io.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
