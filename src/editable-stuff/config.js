@@ -64,7 +64,7 @@ const memberships = {
   show: true,
   heading: "Memberships",
   message:
-    "A leader should be visionary and have more foresight than an employee. The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. Leadership and learning are indispensable to each other. A good objective of leadership is to help those who are doing poorly to do well and to help those who are doing well to do even better.",
+    "Senior Prefect (2014-2018) - Deniyaya Central College, School Prefect Board / Member of School Western Band (2013-2018) / Member of Japura C2 Leo Club (2021-Present) / Member of Japura Vikings Club (2022) / Task master of Graphic Designing in Japura Voice (Jan 2021-Jun 2021)",
   images: [
     { 
       img: require("../assets/img/leo.jpeg"), 
