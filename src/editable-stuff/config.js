@@ -67,14 +67,24 @@ const memberships = {
     "Senior Prefect (2014-2018) - Deniyaya Central College, School Prefect Board / Member of School Western Band (2013-2018) / Member of Japura C2 Leo Club (2021-Present) / Member of Japura Vikings Club (2022) / Task master of Graphic Designing in Japura Voice (Jan 2021-Jun 2021)",
   images: [
     { 
+      img: require("../assets/img/prefects.jpeg"), 
+      label: "Board of Prefects - DCC", 
+      paragraph: "" 
+    },
+    { 
       img: require("../assets/img/leo.jpeg"), 
       label: "Leo Club of District 306 C2 University of Sri Jayewardenepura", 
-      paragraph: "Leo Club of District 306 C2 University of Sri Jayewardenepura sponsored by Lions Club of Colombo Chariot is established in the year 2019 to encourage youths to develop leadership qualities by participating in social activities." 
+      paragraph: "" 
     },
     { 
       img: require("../assets/img/vikings.jpg"), 
       label: "Jpura Vikings", 
-      paragraph: "We are the Vikings club of university of Sri Jayewardenepura is the Sri Lanka’s first social entrepreneurship development club, founded by young entrepreneur Mr. Dulaj Udayanga in 2017, giving expectations for young people who were waiting to start their own businesses." 
+      paragraph: "" 
+    },    
+    { 
+      img: require("../assets/img/voice.jpg"), 
+      label: "Jpura Voice", 
+      paragraph: "" 
     },
   ],
   imageSize: {
