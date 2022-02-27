@@ -82,7 +82,7 @@ const memberships = {
       paragraph: "" 
     },    
     { 
-      img: require("../assets/img/voice.jpg"), 
+      img: require("../assets/img/voice.png"), 
       label: "Jpura Voice", 
       paragraph: "" 
     },
