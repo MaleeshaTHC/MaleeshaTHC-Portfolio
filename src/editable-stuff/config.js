@@ -136,17 +136,17 @@ const education = {
   heading: "Education",
   data: [
     {
-      role: 'University of Sri Jayewardenepura',// Here Add Company Name
+      role: 'Undergraduate in BSc.(Hons) in Information Technology University of Sri Jayewardenepura ',// Here Add Company Name
       companylogo: require('../assets/img/usjp.png'),
       date: 'March 2020 – Present',
     },
     {
-      role: 'Vocational Training Authority of Sri Lanka',// Here Add Company Name
+      role: 'Grade : National Vocational Qualification(NVQ) Level 4 Vocational Training Authority of Sri Lanka',// Here Add Company Name
       companylogo: require('../assets/img/vta.png'),
       date: 'Jan 2019 – Jan 2020',
     },
     {
-      role: 'MR/Deniyaya Central College',// Here Add Company Name
+      role: 'G.C.E. Advanced Level - MR/Deniyaya Central College ',// Here Add Company Name
       companylogo: require('../assets/img/dcc.png'),
       date: 'Jan 2005 – Aug 2018',
     },
