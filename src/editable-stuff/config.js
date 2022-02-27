@@ -124,8 +124,8 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Information & Communication Technology Technician (Intern)',// Here Add Company Name
-      companylogo: " ",
+      role: 'Information & Communication Technology Technician (Intern) Kotapola Pradeshiya Sabha - Deniyaya',// Here Add Company Name
+      companylogo: require('../assets/img/lanka.jpg'),
       date: 'July 2019 – Feb 2020',
     },
   ]
