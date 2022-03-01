@@ -163,9 +163,26 @@ const education = {
   ]
 }
 
+const certifications = {
+  show: true,
+  heading: "Certifications",
+  data: [
+    {
+      role: 'CS1301xI: Computing in Python I: Fundamentals and Procedural Programming - offered by GTx, Georgia Institute of Technology. (Valid Certificate ID - a0559fb92c8a4ad1b89ab3a9015bd991)',// Here Add Company Name
+      companylogo: require('../assets/img/edx.png'),
+      date: 'May 2021',
+    },
+    {
+      role: 'ARDUINO codecamp workshop - offered by Institute of Innovators (https://ii.lk/codecamp)',// Here Add Company Name
+      companylogo: require('../assets/img/codecamp.png'),
+      date: 'Jun 2021',
+    },
+  ]
+}
+
 // Blog SECTION
 // const blog = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, memberships, getInTouch, experiences, education };
+export { navBar, mainBody, about, repos, skills, memberships, getInTouch, experiences, education, certifications };

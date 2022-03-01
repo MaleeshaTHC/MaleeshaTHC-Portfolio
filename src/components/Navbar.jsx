@@ -5,6 +5,7 @@ import useResizeObserver from "../hooks/useResizeObserver";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import { mainBody, repos, about, skills } from "../editable-stuff/config.js";
+import Pdf from "../editable-stuff/resume.pdf"
 
 const Navigation = React.forwardRef((props, ref) => {
   // const { showBlog, FirstName } = config;
@@ -60,9 +61,10 @@ const Navigation = React.forwardRef((props, ref) => {
           )}
           <Nav.Link
             className="nav-link lead"
-            href={about.resume}
+            href={Pdf}
             target="_blank"
             rel="noreferrer noopener"
+            download="resume.pdf"
           >
             Resume
           </Nav.Link>
