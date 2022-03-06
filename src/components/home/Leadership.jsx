@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from "react-bootstrap/Carousel";
 
-const Memberships = ({ heading, message, img, imageSize }) => {
+const Memberships = ({ heading, message1,message2,message3,message4,message5, img, imageSize }) => {
   return (
     <div
       id="memberships"
