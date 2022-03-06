@@ -64,7 +64,15 @@ const memberships = {
   show: true,
   heading: "Memberships",
   message:
-    "Senior Prefect (2014-2018) - Deniyaya Central College, School Prefect Board",
+    "Senior Prefect (2014-2018) - Deniyaya Central College, School Prefect Board",  
+  message2:
+    "Member of School Western Band (2013-2018)",
+  message3:
+    "Member of Japura C2 Leo Club (2021-Present)",
+  message4:
+    "Member of Japura Vikings Club (2022)",
+  message5:
+    "Task master of Graphic Designing in Japura Voice (Jan 2021-Jun 2021)",
   images: [
     { 
       img: require("../assets/img/prefects.jpg"), 
