@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from "react-bootstrap/Carousel";
 
-const Memberships = ({ heading, message1, img, imageSize }) => {
+const Memberships = ({ heading, message1, message2, img, imageSize }) => {
   return (
     <div
       id="memberships"
@@ -13,10 +13,8 @@ const Memberships = ({ heading, message1, img, imageSize }) => {
         <div className="row">
           <div className="col-md-5">
             <p className="lead">
-              <ul><li>{message1}</li></ul></p>
-              
-            <p className="lead">
-              <ul><li>{message1}</li></ul></p>
+              <ul><li>{message1}</li></ul>
+              <ul><li>{message2}</li></ul></p>
           </div>
           <div className="col-md-7">
             <Carousel>
