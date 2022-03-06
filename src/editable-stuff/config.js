@@ -63,7 +63,7 @@ const repos = {
 const memberships = {
   show: true,
   heading: "Memberships",
-  message1:
+  message:
     "Senior Prefect (2014-2018) - Deniyaya Central College, School Prefect Board",
   message2:
     "Member of School Western Band (2013-2018)",
