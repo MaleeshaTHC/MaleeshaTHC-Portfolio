@@ -13,7 +13,7 @@ const Memberships = ({ heading, message, img, imageSize }) => {
         <div className="row">
           <div className="col-md-5">
             <p className="lead">
-              <ul><li>{message}</li></ul></p>
+              <ul><li>{message}</li><li>{message}</li></ul></p>
           </div>
           <div className="col-md-7">
             <Carousel>
