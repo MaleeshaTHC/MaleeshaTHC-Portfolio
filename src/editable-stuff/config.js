@@ -183,13 +183,13 @@ const certifications = {
       role: 'CS1301xI: Computing in Python I: Fundamentals and Procedural Programming',// Here Add Company Name
       companylogo: require('../assets/img/edx.png'),
       date: 'May 2021',
-      description: "Offered by GTx, Georgia Institute of Technology. (Valid Certificate ID - a0559fb92c8a4ad1b89ab3a9015bd991)"
+      description: "Offered by GTx, Georgia Institute of Technology on Fundamentals and Procedural Programming with Python language. (Valid Certificate ID - a0559fb92c8a4ad1b89ab3a9015bd991)"
     },
     {
       role: 'ARDUINO codecamp workshop',// Here Add Company Name
       companylogo: require('../assets/img/codecamp.png'),
       date: 'Jun 2021',
-      description: 'Offered by Institute of Innovators (https://ii.lk/codecamp)'
+      description: 'Offered by Institute of Innovators (https://ii.lk/codecamp) for getting 5 stars on their assessment of ARDUINO workshop. '
     },
   ]
 }
