@@ -12,15 +12,13 @@ const Memberships = ({ heading, message1,message2,message3,message4,message5, im
         <h2 className="display-4 pb-5 text-center">{heading}</h2>
         <div className="row">
           <div className="col-md-5">
-            <p className="lead">
               <ul>
-                <li><p>{message1}</p></li>
-                <li>{message2}</li>
-                <li>{message3}</li>
-                <li>{message4}</li>
-                <li>{message5}</li>
+                <li><p className="lead">{message1}</p></li>
+                <li><p className="lead">{message2}</p></li>
+                <li><p className="lead">{message3}</p></li>
+                <li><p className="lead">{message4}</p></li>
+                <li><p className="lead">{message5}</p></li>
               </ul>
-            </p>
           </div>
           <div className="col-md-7">
             <Carousel>
