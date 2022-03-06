@@ -159,7 +159,7 @@ const education = {
       description: "Key Areas - MS-Office, Photoshop, VB"
     },
     {
-      role: 'G.C.E. Advanced Level - MR/Deniyaya Central College ',// Here Add Company Name
+      role: 'G.C.E. Advanced Level & G.C.E. Ordinary Level - MR/Deniyaya Central College ',// Here Add Company Name
       companylogo: require('../assets/img/dcc.png'),
       date: 'Jan 2005 – Aug 2018',
       description: ""
