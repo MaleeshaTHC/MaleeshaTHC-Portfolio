@@ -14,7 +14,7 @@ const Memberships = ({ heading, message1,message2,message3,message4,message5, im
           <div className="col-md-5">
             <p className="lead">
               <ul>
-                <li>{message1}</li>
+                <li><p>{message1}</p></li>
                 <li>{message2}</li>
                 <li>{message3}</li>
                 <li>{message4}</li>
