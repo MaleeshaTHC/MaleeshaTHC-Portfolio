@@ -180,7 +180,7 @@ const certifications = {
   heading: "Certifications",
   data: [
     {
-      role: 'CS1301xI: Computing in Python I: Fundamentals and Procedural Programming',// Here Add Company Name
+      role: 'CS1301xI: Computing in Python I',// Here Add Company Name
       companylogo: require('../assets/img/edx.png'),
       date: 'May 2021',
       description: "Offered by GTx, Georgia Institute of Technology on Fundamentals and Procedural Programming with Python language. (Valid Certificate ID - a0559fb92c8a4ad1b89ab3a9015bd991)"
