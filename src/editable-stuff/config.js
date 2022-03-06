@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/chathumini.png"),
   imageSize: 375,
   message:
-    "My name is Chathumini Maleesha. I’m an undergraduate in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of UI/UX designing. In my free time I like working on open source projects.",
+    "My name is Chathumini Maleesha, an undergraduate in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of UI/UX designing. In my free time I like working on open source projects. And also I like to spend my leisure time with having a song or singing. I really like to make connections with more individuals because it will be a good thing one day at the society. And also I always need to do my best at the all things as perfect.",
   resume: "https://drive.google.com/file/d/1c9-cl2b3BgIF9h21seXZWNERr9aLQoHn/view?usp=sharing",
 };
 
