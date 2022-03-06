@@ -39,8 +39,8 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/chathumini.jpeg"),
-  imageSize: 450,
+  imageLink: require("../editable-stuff/chathumini.png"),
+  imageSize: 375,
   message:
     "My name is Chathumini Maleesha. I’m an undergraduate in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of UI/UX designing. In my free time I like working on open source projects.",
   resume: "https://drive.google.com/file/d/1c9-cl2b3BgIF9h21seXZWNERr9aLQoHn/view?usp=sharing",
@@ -63,41 +63,33 @@ const repos = {
 const memberships = {
   show: true,
   heading: "Memberships",
-  message:
-    "Senior Prefect (2014-2018) - Deniyaya Central College, School Prefect Board",
-  message2:
-    "Member of School Western Band (2013-2018)",
-  message3:
-    "Member of Japura C2 Leo Club (2021-Present)",
-  message4:
-    "Member of Japura Vikings Club (2022)",
-  message5:
-    "Task master of Graphic Designing in Japura Voice (Jan 2021-Jun 2021)",
+  message: 
+        "",
   images: [
     { 
-      img: require("../assets/img/prefects.jpg"), 
+      img: require("../assets/img/prefects.png"), 
       label: "Board of Prefects - DCC", 
-      paragraph: "" 
+      paragraph: "Senior Prefect (2014-2018) - Deniyaya Central College School Prefect Board & Member of School Western Band (2013-2018)" 
     },
     { 
-      img: require("../assets/img/leo.jpeg"), 
+      img: require("../assets/img/leo.png"), 
       label: "Leo Club of District 306 C2 University of Sri Jayewardenepura", 
-      paragraph: "" 
+      paragraph: "Member of Japura C2 Leo Club (2021-Present)" 
     },
     { 
-      img: require("../assets/img/vikings.jpg"), 
+      img: require("../assets/img/vikings.png"), 
       label: "Jpura Vikings", 
-      paragraph: "" 
+      paragraph: "Member of Japura Vikings Club (2022)" 
     },    
     { 
       img: require("../assets/img/voice.png"), 
       label: "Jpura Voice", 
-      paragraph: "" 
+      paragraph: "Task master of Graphic Designing in Japura Voice (Jan 2021-Jun 2021)" 
     },
   ],
   imageSize: {
-    width:"400",
-    height:"400"
+    width:"615",
+    height:"450"
   }
 };
 

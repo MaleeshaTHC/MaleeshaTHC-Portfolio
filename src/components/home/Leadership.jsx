@@ -1,27 +1,20 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from "react-bootstrap/Carousel";
 
-const Memberships = ({ heading, message, message2, message3, message4, message5, img, imageSize }) => {
+const Memberships = ({ heading, message, img, imageSize }) => {
   return (
     <div
-      id="memberships"
+      id="leadership"
       className="jumbotron jumbotron-fluid m-0"
       style={{ backgroundColor: "white" }}
     >
       <div className="container container-fluid">
         <h2 className="display-4 pb-5 text-center">{heading}</h2>
         <div className="row">
-          <div className="col-md-5">
-            <p className="lead">
-              <ul><li>{message}</li><br/>
-                  <li>{message2}</li><br/>
-                  <li>{message3}</li><br/>
-                  <li>{message4}</li><br/>
-                  <li>{message5}</li>
-              </ul>
-            </p>
+          <div className="col-md-3">
+            <p className="lead">{message}</p>
           </div>
-          <div className="col-md-7">
+          <div className="col-md-6">
             <Carousel>
               {img.map((value, index) => {
                 return (

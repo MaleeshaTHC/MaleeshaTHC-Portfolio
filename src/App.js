@@ -49,12 +49,7 @@ const Home = React.forwardRef((props, ref) => {
         education.show && (
           <Education education={education}/>
         )
-      }      
-      {
-        certifications.show && (
-          <Certifications certifications={certifications}/>
-        )
-      }
+      } 
       {memberships.show && (
         <Memberships
           heading={memberships.heading}
@@ -63,6 +58,11 @@ const Home = React.forwardRef((props, ref) => {
           imageSize={memberships.imageSize}
         />
       )}
+      {
+        certifications.show && (
+          <Certifications certifications={certifications}/>
+        )
+      }
       {
         experiences.show && (
           <Experience experiences={experiences}/>
