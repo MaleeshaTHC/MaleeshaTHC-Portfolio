@@ -158,16 +158,19 @@ const education = {
       role: 'Undergraduate in BSc.(Hons) in Information Technology University of Sri Jayewardenepura ',// Here Add Company Name
       companylogo: require('../assets/img/usjp.png'),
       date: 'March 2020 – Present',
+      description: "Key Areas - Programming, DBMS, OOP, HCI, Project Management, MObile/Web App Development, IOT, Computer Networking, Multimedia"
     },
     {
       role: 'Grade : National Vocational Qualification(NVQ) Level 4 Vocational Training Authority of Sri Lanka',// Here Add Company Name
       companylogo: require('../assets/img/vta.png'),
       date: 'Jan 2019 – Jan 2020',
+      description: "Key Areas - MS-Office, Photoshop, VB"
     },
     {
       role: 'G.C.E. Advanced Level - MR/Deniyaya Central College ',// Here Add Company Name
       companylogo: require('../assets/img/dcc.png'),
       date: 'Jan 2005 – Aug 2018',
+      description: ""
     },
   ]
 }
@@ -177,14 +180,16 @@ const certifications = {
   heading: "Certifications",
   data: [
     {
-      role: 'CS1301xI: Computing in Python I: Fundamentals and Procedural Programming - offered by GTx, Georgia Institute of Technology. (Valid Certificate ID - a0559fb92c8a4ad1b89ab3a9015bd991)',// Here Add Company Name
+      role: 'CS1301xI: Computing in Python I: Fundamentals and Procedural Programming',// Here Add Company Name
       companylogo: require('../assets/img/edx.png'),
       date: 'May 2021',
+      description: "Offered by GTx, Georgia Institute of Technology. (Valid Certificate ID - a0559fb92c8a4ad1b89ab3a9015bd991)"
     },
     {
-      role: 'ARDUINO codecamp workshop - offered by Institute of Innovators (https://ii.lk/codecamp)',// Here Add Company Name
+      role: 'ARDUINO codecamp workshop',// Here Add Company Name
       companylogo: require('../assets/img/codecamp.png'),
       date: 'Jun 2021',
+      description: 'Offered by Institute of Innovators (https://ii.lk/codecamp)'
     },
   ]
 }

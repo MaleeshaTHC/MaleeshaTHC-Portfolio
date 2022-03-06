@@ -13,7 +13,7 @@ const ExperienceCard = ({data}) => {
                     {data.role}
                     <br/>
                     {data.date}
-                    <br />
+                    <br /><br/>
                     <div className="pb-5 text-justify">
                         {data.description}
                     </div>                    
