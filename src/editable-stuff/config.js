@@ -137,6 +137,7 @@ const experiences = {
       role: 'Information & Communication Technology Technician (Intern) Kotapola Pradeshiya Sabha - Deniyaya',// Here Add Company Name
       companylogo: require('../assets/img/lanka.png'),
       date: 'July 2019 – Feb 2020',
+      description: "As the internship of NVQ level 4 certification had to follow 6 month internship period. I gain many experiences about the IT field and government sector IT field from this opportunity. And also I got this opportunity as a huge chance to develop my soft skills like leadership, teamwork, partnership etc."
     },
   ]
 }
